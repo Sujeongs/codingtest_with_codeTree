@@ -1,6 +1,8 @@
 n = int(input())
 arr = list(map(int, input().split()))
+
 a=arr[0]
+
 # Please write your code here.
 def gcd(a,b):
     if b==0:
